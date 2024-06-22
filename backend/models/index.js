@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const uri = "mongodb+srv://benmasouryassine:fZPG91idb7myn4qR@cluster0.giqb5ct.mongodb.net/";
+const uri = "db";
 
 
 function main() {
